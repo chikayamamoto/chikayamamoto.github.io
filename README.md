@@ -1,1 +1,1 @@
-# [chikayamamoto.github.io](https://chikayamamoto.github.io)https://chikayamamoto.github.io
+[Chika Yamamoto](https://chikayamamoto.github.io)
