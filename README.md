@@ -1,1 +1,1 @@
-[Chika Yamamoto](https://chikayamamoto.github.io)
+<a href="https://chikayamamoto.github.io/" target="_blank">Chika Yamamoto!</a>
